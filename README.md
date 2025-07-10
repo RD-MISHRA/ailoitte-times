@@ -37,6 +37,11 @@ Ailoitte-Times is a modern, responsive web application built with Next.js that a
 <img width="1902" height="869" alt="Screenshot 2025-07-10 172317" src="https://github.com/user-attachments/assets/70613d90-ef3c-401a-995b-1b7bc30d8537" />
 <img width="1906" height="886" alt="Screenshot 2025-07-10 172401" src="https://github.com/user-attachments/assets/33365d81-076c-4b28-87df-ab9ccb9e1e3b" />
 
+
+[View test result at](https://drive.google.com/file/d/1NjyApT0Z9_12TpHOH4cb5MSkIJfEjGgm/view)
+
+
+
 ## Technologies Used
 
 * **Framework:** Next.js (React Framework)
