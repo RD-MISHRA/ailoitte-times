@@ -63,7 +63,7 @@ export default function FullArticlePage() {
   }
 
   return (
-    <div className="py-36 max-w-4xl mx-auto px-4 py-8 bg-white rounded-lg my-8">
+    <div className="py-40 max-w-4xl mx-auto px-4 py-8 bg-white rounded-lg my-8">
       <h1 className="text-4xl font-extrabold mb-4 text-gray-900 leading-tight">
         {article.title}
       </h1>

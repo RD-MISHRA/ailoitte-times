@@ -85,7 +85,7 @@ export default function SearchResultsPage() {
 
   return (
     <div className="my-20 pt-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
-      <h1 className="text-3xl font-extrabold text-gray-900 mb-6">
+      <h1 className="text-3xl font-extrabold text-gray-900 mb-6" data-testid="search-results-heading">
         Search Results for: "<span className="text-red-700">{displayQuery}</span>"
       </h1>
 
